@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance Book (دفتر الغياب الذكي)",
+  "description": "نظام احترافي لإدارة غياب وحضور التلاميذ يعتمد على مبدأ العمل بدون إنترنت (Offline-First) مع تحليلات ذكية وتصدير للبيانات.",
+  "requestFramePermissions": []
+}
